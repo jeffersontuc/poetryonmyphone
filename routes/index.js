@@ -6,7 +6,7 @@
 
 
     router.get('/', function (req, res) {
-        res.json('Welcome to TeamOnMyPhone server!');
+        res.json('Welcome to PoetryOnMyPhone server!');
     });
 
 
