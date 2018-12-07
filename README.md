@@ -7,4 +7,4 @@
 For this project, I used the following tools:
 
 * [Twilio](https://www.twilio.com/)
-* [PoetryDB] (http://poetrydb.org/index.html)
+* [PoetryDB](http://poetrydb.org/index.html)
