@@ -1,7 +1,7 @@
 # PoetryOnMyPhone
 
 
-##A simple node server to send daily poems to my personal number.##
+## A simple node server to send daily poems to my personal number.
 
 
 For this project, I used the following tools:
